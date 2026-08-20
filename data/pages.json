@@ -5,7 +5,8 @@
    "name": "Ігри",
    "pages": [
     "context",
-    "ReGo"
+    "ReGo",
+    "recoil-game"
    ]
   }
  ]
