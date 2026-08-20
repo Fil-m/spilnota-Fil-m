@@ -6,7 +6,8 @@
    "pages": [
     "context",
     "ReGo",
-    "recoil-game"
+    "recoil-game",
+    "habitat-os-test"
    ]
   }
  ]
